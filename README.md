@@ -1,7 +1,8 @@
 ## 项目介绍
 
-这是 [咖啡吧导航](https://nav.ops-coffee.cn) 项目，由 [运维咖啡吧](https://ops-coffee.cn) 创建
+这是 fork [咖啡吧导航](https://github.com/ops-coffee/nav) 项目，自己做一个学习和测试，github page部署，
 
-## 其他说明
+###
+特此声明该项目创意由 [运维咖啡吧](https://ops-coffee.cn) 创建
 
-如果你使用了本项目，请添加[咖啡吧导航](https://nav.ops-coffee.cn) 为友链，或在底部给[咖啡吧导航](https://nav.ops-coffee.cn) 个链接，感谢你的支持！
+
